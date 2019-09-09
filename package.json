@@ -7,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Bafana Mhlamvu"
 	"engines": {
 		"node": "8.11.2"
 	},
