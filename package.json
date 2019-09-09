@@ -7,7 +7,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Bafana Mhlamvu",
 	"engines": {
 		"node": "8.11.2"
 	},
@@ -15,4 +14,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	"author": "Bafana Mhlamvu"
 }
